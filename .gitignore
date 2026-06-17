@@ -26,3 +26,8 @@ ehthumbs.db
 Thumbs.db
 .vscode/
 *.bak
+
+### Java/Kotlin
+.gradle/
+target/
+build/
